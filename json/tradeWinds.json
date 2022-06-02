@@ -1,0 +1,476 @@
+[
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 1031145.44,
+				"rotation": -114.329369,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 327086.438,
+				"worldY": 2930908
+			},
+			{
+				"controlPointsDistance": 419251.2,
+				"rotation": -29.46968,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 642244.563,
+				"worldY": 670356.063
+			},
+			{
+				"controlPointsDistance": 1860394.88,
+				"rotation": -313.390533,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 3400959,
+				"worldY": 1110133.5
+			}
+		],
+		"PathId": 1,
+		"PathName": "TradeWind1",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": true
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 624602.4,
+				"rotation": -82.18471,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 647128.063,
+				"worldY": 1774002.38
+			},
+			{
+				"controlPointsDistance": 567598.25,
+				"rotation": -10.5518188,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 1539657,
+				"worldY": 1012021.94
+			},
+			{
+				"controlPointsDistance": 539560.9,
+				"rotation": 71.353096,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 2440835.5,
+				"worldY": 1748053.13
+			},
+			{
+				"controlPointsDistance": 772092.9,
+				"rotation": 172.323013,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 1500733,
+				"worldY": 2643302.75
+			}
+		],
+		"PathId": 2,
+		"PathName": "TradeWind 2",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": true,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 411255.219,
+				"rotation": -10.6212769,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 954621.438,
+				"worldY": 3496319.25
+			},
+			{
+				"controlPointsDistance": 458429.344,
+				"rotation": -29.8759918,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 2084003.5,
+				"worldY": 3225105.5
+			},
+			{
+				"controlPointsDistance": 484270.438,
+				"rotation": -51.4473419,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 3247984.5,
+				"worldY": 2313810.25
+			},
+			{
+				"controlPointsDistance": 489069.344,
+				"rotation": -37.3186,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 4564352.5,
+				"worldY": 1354489.38
+			}
+		],
+		"PathId": 3,
+		"PathName": "TradeWind 3",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 1841114,
+				"rotation": -401.6711,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 5659663.5,
+				"worldY": 4961439
+			},
+			{
+				"controlPointsDistance": 470318.844,
+				"rotation": -103.312393,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 6318649.5,
+				"worldY": 2387332.5
+			},
+			{
+				"controlPointsDistance": 1051628.25,
+				"rotation": -88.06894,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 5459601.5,
+				"worldY": 355442.063
+			}
+		],
+		"PathId": 4,
+		"PathName": "TradeWind 4",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": true
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 647267.5,
+				"rotation": 98.63832,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 3985934.75,
+				"worldY": 2976318.75
+			},
+			{
+				"controlPointsDistance": 424632.2,
+				"rotation": 12.1714592,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 4939011.5,
+				"worldY": 4177833
+			},
+			{
+				"controlPointsDistance": 820426.1,
+				"rotation": -88.54979,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 5926689.5,
+				"worldY": 3054166.5
+			},
+			{
+				"controlPointsDistance": 256330.547,
+				"rotation": -181.157333,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 4982261.5,
+				"worldY": 2072419.25
+			}
+		],
+		"PathId": 5,
+		"PathName": "TradeWind 5",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": true,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 6788457.5,
+				"worldY": 2959019.25
+			},
+			{
+				"controlPointsDistance": 868772.938,
+				"rotation": 13.2079287,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 7663686.5,
+				"worldY": 1998094.13
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 8314023,
+				"worldY": 2872521.75
+			},
+			{
+				"controlPointsDistance": 734885.8,
+				"rotation": 177.978638,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 7629088.5,
+				"worldY": 3996990.25
+			}
+		],
+		"PathId": 6,
+		"PathName": "TradeWind 6",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": true,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 1352085.75,
+				"rotation": 193.324539,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 9586655,
+				"worldY": 6185379.5
+			},
+			{
+				"controlPointsDistance": 902035.5,
+				"rotation": 202.18428,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 5877511,
+				"worldY": 5786688.5
+			},
+			{
+				"controlPointsDistance": 2286261.75,
+				"rotation": -104.31871,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 3305812.25,
+				"worldY": 3015242.25
+			}
+		],
+		"PathId": 7,
+		"PathName": "TradeWind 7",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 6321369.5,
+				"worldY": 9567435
+			},
+			{
+				"controlPointsDistance": 1352415.5,
+				"rotation": -31.2582169,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 7356620,
+				"worldY": 7668011
+			},
+			{
+				"controlPointsDistance": 415869.219,
+				"rotation": -13.2405243,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 9650411,
+				"worldY": 7206050.5
+			}
+		],
+		"PathId": 8,
+		"PathName": "TradeWind 11",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": true
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 750156.3,
+				"rotation": 244.3906,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 145442,
+				"worldY": 5190657
+			},
+			{
+				"controlPointsDistance": 1401688,
+				"rotation": 12.6218262,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 2629526.75,
+				"worldY": 7949128
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 5952638,
+				"worldY": 7430945
+			}
+		],
+		"PathId": 9,
+		"PathName": "TradeWind 9",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 550068.063,
+				"rotation": 0,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 6697633.5,
+				"worldY": 601959.9
+			},
+			{
+				"controlPointsDistance": 880513.5,
+				"rotation": 70.05098,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 8524337,
+				"worldY": 2322459.75
+			},
+			{
+				"controlPointsDistance": 1666487.5,
+				"rotation": -13.7815971,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 9676359,
+				"worldY": 5441500
+			}
+		],
+		"PathId": 10,
+		"PathName": "TradeWind 10",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": true
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 374855.625,
+				"rotation": 46.84761,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 2204084,
+				"worldY": 6168079.5
+			},
+			{
+				"controlPointsDistance": 1013351.31,
+				"rotation": -357.53186,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 3831842.75,
+				"worldY": 6651664
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 5554748.5,
+				"worldY": 6444871.5
+			}
+		],
+		"PathId": 11,
+		"PathName": "TradeWind 12",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": true
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 603528.438,
+				"rotation": -1.45944977,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 863371.938,
+				"worldY": 4412178.5
+			},
+			{
+				"controlPointsDistance": 229014.453,
+				"rotation": 10.8855286,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 2413282.75,
+				"worldY": 4471925
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 3253913,
+				"worldY": 4645722.5
+			}
+		],
+		"PathId": 12,
+		"PathName": "TradeWind 13",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": true
+	},
+	{
+		"Nodes": [
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 340061.625,
+				"worldY": 8438642
+			},
+			{
+				"controlPointsDistance": 1557172.75,
+				"rotation": -0.9548416,
+				"strength": 5,
+				"width": 50000,
+				"worldX": 2231637.75,
+				"worldY": 8757881
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"strength": 3,
+				"width": 50000,
+				"worldX": 3941569.25,
+				"worldY": 9697182
+			}
+		],
+		"PathId": 13,
+		"PathName": "TradeWind 14",
+		"StartInterpolatingOceanColorAtPercentage": 0.25,
+		"isLooping": false,
+		"isLoopingAroundWorld": false,
+		"reverseDir": false
+	}
+]

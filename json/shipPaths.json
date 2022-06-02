@@ -1,0 +1,126 @@
+[
+	{
+		"AutoSpawnEveryUTCInterval": 21600,
+		"AutoSpawnShipClass": "Blueprint'/Game/Atlas/ShipPaths/PathFollowingGhostShip_BP.PathFollowingGhostShip_BP'",
+		"Nodes": [
+			{
+				"controlPointsDistance": 336530.4,
+				"rotation": -89.68356,
+				"worldX": 4310460.5,
+				"worldY": 4861326.5
+			},
+			{
+				"controlPointsDistance": 381556.2,
+				"rotation": 0.231067657,
+				"worldX": 4929723,
+				"worldY": 4319753
+			},
+			{
+				"controlPointsDistance": 338098.8,
+				"rotation": 86.02327,
+				"worldX": 5520790.5,
+				"worldY": 4894642
+			},
+			{
+				"controlPointsDistance": 415715.25,
+				"rotation": -179.663635,
+				"worldX": 4904093.5,
+				"worldY": 5522552
+			}
+		],
+		"PathId": 1,
+		"PathName": "GhostShip Path",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 12600,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 413732.781,
+				"rotation": -156.225815,
+				"worldX": 4357874.5,
+				"worldY": 3522214.5
+			},
+			{
+				"controlPointsDistance": 327379.063,
+				"rotation": -99.63754,
+				"worldX": 4947662,
+				"worldY": 3233087.25
+			},
+			{
+				"controlPointsDistance": 533460.1,
+				"rotation": 120.469025,
+				"worldX": 5195303.5,
+				"worldY": 3848982.75
+			}
+		],
+		"PathId": 2,
+		"PathName": "MerchantAdmin",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 12600,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 1822241,
+				"rotation": 85.94326,
+				"worldX": 2416005.25,
+				"worldY": 4072677.5
+			},
+			{
+				"controlPointsDistance": 2321046.25,
+				"rotation": 7.036194,
+				"worldX": 8939527,
+				"worldY": 8628138
+			},
+			{
+				"controlPointsDistance": 3158307.5,
+				"rotation": -106.427246,
+				"worldX": 879554.2,
+				"worldY": 8256997.5
+			}
+		],
+		"PathId": 3,
+		"PathName": "Merchant1",
+		"autoSpawn": true,
+		"isLooping": false
+	},
+	{
+		"AutoSpawnEveryUTCInterval": 12600,
+		"AutoSpawnShipClass": "",
+		"Nodes": [
+			{
+				"controlPointsDistance": 1909743.88,
+				"rotation": 35.7273979,
+				"worldX": 2593322.5,
+				"worldY": 1229068.5
+			},
+			{
+				"controlPointsDistance": 1674574,
+				"rotation": 123.036224,
+				"worldX": 7309049,
+				"worldY": 2119190.25
+			},
+			{
+				"controlPointsDistance": 1525910.88,
+				"rotation": -113.504364,
+				"worldX": 8979255,
+				"worldY": 1457885.25
+			},
+			{
+				"controlPointsDistance": 70000,
+				"rotation": 0,
+				"worldX": 6791665,
+				"worldY": 1229068
+			}
+		],
+		"PathId": 4,
+		"PathName": "Merchant2",
+		"autoSpawn": true,
+		"isLooping": false
+	}
+]

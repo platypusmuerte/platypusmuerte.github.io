@@ -1,0 +1,94 @@
+[
+	{
+		"node1": {
+			"gps": [
+				389.9775695800781,
+				-192.0956573486328
+			],
+			"resource": "Straw",
+			"resources": [
+				"Coconut",
+				"Straw"
+			]
+		},
+		"node2": {
+			"gps": [
+				389.98529052734375,
+				-192.09056091308594
+			],
+			"resource": "Jute",
+			"resources": [
+				"Jute"
+			]
+		}
+	},
+	{
+		"node1": {
+			"gps": [
+				389.825439453125,
+				-191.85916137695312
+			],
+			"resource": "Jute",
+			"resources": [
+				"Jute"
+			]
+		},
+		"node2": {
+			"gps": [
+				389.8157653808594,
+				-191.853515625
+			],
+			"resource": "Straw",
+			"resources": [
+				"Rosemary",
+				"Straw"
+			]
+		}
+	},
+	{
+		"node1": {
+			"gps": [
+				390.12664794921875,
+				-192.30076599121094
+			],
+			"resource": "Jute",
+			"resources": [
+				"Jute"
+			]
+		},
+		"node2": {
+			"gps": [
+				390.1282043457031,
+				-192.30587768554688
+			],
+			"resource": "Straw",
+			"resources": [
+				"Rosemary",
+				"Straw"
+			]
+		}
+	},
+	{
+		"node1": {
+			"gps": [
+				389.3224182128906,
+				-192.01856994628906
+			],
+			"resource": "Jute",
+			"resources": [
+				"Jute"
+			]
+		},
+		"node2": {
+			"gps": [
+				389.3249206542969,
+				-192.02664184570312
+			],
+			"resource": "Straw",
+			"resources": [
+				"Rosemary",
+				"Straw"
+			]
+		}
+	}
+]
